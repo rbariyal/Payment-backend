@@ -2,7 +2,6 @@ const express=require("express")
 const mongoose=require("mongoose")
 const cors=require('cors')
 const cards=require("./cards");
-const e = require("express");
 
 
 
